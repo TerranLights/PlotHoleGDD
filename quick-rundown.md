@@ -56,10 +56,10 @@ Quest types: literal fetch (comically over-engineered), radiant/repeatable fille
 
 ## Extra Acronym
 
-**B**umbling
-**E**xecutives
-**T**rying
-**H**opelessly,
-**E**ndangering
-**S**tory-Driven
-**A**dventures
+- **B**umbling
+- **E**xecutives
+- **T**rying
+- **H**opelessly,
+- **E**ndangering
+- **S**tory-Driven
+- **A**dventures

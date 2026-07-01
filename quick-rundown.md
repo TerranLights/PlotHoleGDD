@@ -61,5 +61,6 @@ Quest types: literal fetch (comically over-engineered), radiant/repeatable fille
 - **T**rying
 - **H**opelessly,
 - **E**ndangering
-- **S**tory-Driven
+- **S**tory-
+- **D**riven
 - **A**dventures

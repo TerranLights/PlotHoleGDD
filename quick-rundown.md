@@ -13,7 +13,7 @@ it'll be:
 
 ## Dialogue System
 
-Yes
-No but Yes
-Sure, haha
-What?
+- Yes
+- No but Yes
+- Sure, haha
+- What?
